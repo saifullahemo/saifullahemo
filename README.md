@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifullahemo
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently a front-end developer 
 - 💞️ I’m looking to collaborate on react development
 - 📫 How to reach me ... saifullahemo@gmail.com
 
