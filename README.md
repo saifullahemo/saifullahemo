@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saifullahemo
-- 👀 I’m interested in software developement
-- 🌱 I’m currently a front-end developer 
-- 💞️ I’m looking to collaborate on react development
+- 👀 I’m interested in web development & Ui Ux design
+- 🌱 I’m currently a front-end developer with Ui Ux Designer
+- 💞️ I’m looking to collaborate on react
 - 📫 How to reach me ... saifullahemo@gmail.com
 
 <!---
