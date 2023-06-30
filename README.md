@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saifullahemo
-- 👀 I’m interested in web development & Ui Ux design
-- 🌱 I’m currently a front-end developer with Ui Ux Designer
+- 👀 I’m interested in SQA Engineer & Ui Ux design
+- 🌱 I’m currently a SQA Engineer with Ui Ux Designer
 - 💞️ I’m looking to collaborate on react
 - 📫 How to reach me ... saifullahemo@gmail.com
 
